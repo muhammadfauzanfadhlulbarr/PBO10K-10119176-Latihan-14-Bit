@@ -1,3 +1,11 @@
+/**
+ * Latihan14
+ * Nama     : Muhammad Fauzan Fadhlulbarr
+ * Kelas    : PBO10K
+ * NIM      : 10119176
+ * Program  : Bit
+ */
+
 public class Latihan14 {
     public static void main(String[] args) {
         int a = 60;
